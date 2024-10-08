@@ -1,8 +1,22 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Bill/Invoice Generator 
+website using React helps users easily make, customize, and print invoices and can add or delete items. It uses React’s building blocks to make the design easy to update and reuse. The user also has a feature of downloading the pdf version of the generated bill
 
-Currently, two official plugins are available:
+## Steps to Create the React App:
+## Step 1: Set up React Project using the Command:
+        npm create vite@latest (project name)
+## Step 2: Navigate to the Project folder using:  
+        cd (project name)
+## Step 3: Installing the dependencies.
+        npm i jspdf
+## Step 4: Run the Application:
+        npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React.js
+- Vite (for fast development and build)
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React Hooks (useState, useEffect)
